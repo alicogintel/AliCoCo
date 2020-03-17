@@ -5,7 +5,7 @@ This repo **will** contain anything we plan to make public of the large-scale co
 
 For details about AliCoCo 1.0, check our latest SIGMOD paper:
 
-**[AliCoCo: Alibaba E-commerce Cognitive Concept Net](http://xushengl.me/alicoco.pdf)**.<br /> 
+**[AliCoCo: Alibaba E-commerce Cognitive Concept Net](https://github.com/alicogintel/AliCoCo/raw/master/alicoco.pdf)**.<br /> 
 Xusheng Luo, Luxin Liu, Yonghua Yang, Le Bo, Yuanpeng Cao, Jinhang Wu, Qiang Li, Keping Yang and Kenny Q. Zhu.<br /> 
 To appear *in Proceedings of The 2020 International Conference on Management of Data (**SIGMOD 2020**)*
 
