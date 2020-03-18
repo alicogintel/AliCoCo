@@ -27,7 +27,7 @@ Under review of *the 26th ACM SIGKDD International Conference on Knowledge Disco
 **Semantics-Enhanced Slogan Generation in E-commerce**.<br />
 Under review of *the 43rd International Conference on Research and Development in Information Retrieval (**SIGIR 2020**)*
 
-**CoCon: A Dataset for Identifying Commonsense Error in E-Commerce Knowledge Graph**.<br />
+**DICE: A Dataset for Identifying Commonsense Error in E-Commerce Knowledge Graph**.<br />
 Under review of *the 19th International Semantic Web Conference (**ISWC 2020**)*
 
 
