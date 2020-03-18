@@ -24,3 +24,10 @@ Under review of *the 26th ACM SIGKDD International Conference on Knowledge Disco
 **M2GRL: A Multi-task Multi-view Graph Representation Learning Framework for Web-scale Recommender Systems**.<br />
 Under review of *the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (**KDD 2020**)*
 
+**Semantics-Enhanced Slogan Generation in E-commerce**.<br />
+Under review of *the 43rd International Conference on Research and Development in Information Retrieval (**SIGIR 2020**)*
+
+**CoCon: A Dataset for Identifying Commonsense Error in E-Commerce Knowledge Graph**.<br />
+Under review of *the 19th International Semantic Web Conference (**ISWC 2020**)*
+
+
