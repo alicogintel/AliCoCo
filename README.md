@@ -12,7 +12,7 @@ To appear *in Proceedings of The 2020 International Conference on Management of 
 <br />
 <br />
 
-The followings are applications based on AliCoCo:
+The followings works are based on AliCoCo:
 
 **[Conceptualize and Infer User Needs in E-commerce](https://arxiv.org/abs/1910.03295)**.<br />
 Xusheng Luo, Yonghua Yang, Kenny Q. Zhu, Yu Gong, and Keping Yang.<br />
