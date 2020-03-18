@@ -21,6 +21,6 @@ In *Proceedings of The 28th ACM International Conference on Information and Know
 **MTBRN: Multiplex Target-Behavior Relation Enhanced Network for Click-Through Rate Prediction**.<br />
 Under review of *the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (**KDD 2020**)*
 
-** **.<br />
+**M2GRL: A Multi-task Multi-view Graph Representation Learning Framework for Web-scale Recommender Systems**.<br />
 Under review of *the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (**KDD 2020**)*
 
