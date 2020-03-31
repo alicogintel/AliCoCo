@@ -2,7 +2,6 @@
 
 This repo **will** contain anything we plan to make public of the large-scale comprehensive e-commerce knowledge graph **AliCoCo**, which is practiced in *Alibaba*, the largest Chinese e-commerce platform and one of the largest multi-lingual e-commerce platforms around the world.
 
-
 For details about AliCoCo 1.0, check our latest SIGMOD paper:
 
 **[AliCoCo: Alibaba E-commerce Cognitive Concept Net](https://arxiv.org/abs/2003.13230)**.<br /> 
