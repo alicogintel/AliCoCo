@@ -17,16 +17,16 @@ The following works are based on AliCoCo:
 Xusheng Luo, Yonghua Yang, Kenny Q. Zhu, Yu Gong, and Keping Yang.<br />
 In *Proceedings of The 28th ACM International Conference on Information and Knowledge Management (**CIKM 2019**)*
 
-**MTBRN: Multiplex Target-Behavior Relation Enhanced Network for Click-Through Rate Prediction**.<br />
-Under review of *the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (**KDD 2020**)*
-
 **M2GRL: A Multi-task Multi-view Graph Representation Learning Framework for Web-scale Recommender Systems**.<br />
-Under review of *the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (**KDD 2020**)*
+To appear at *The 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (**KDD 2020**)*
+
+**MTBRN: Multiplex Target-Behavior Relation Enhanced Network for Click-Through Rate Prediction**.<br />
+Under review of *The 29th ACM International Conference on Information and Knowledge Management (**CIKM 2020**)*
 
 **Semantics-Enhanced Slogan Generation in E-commerce**.<br />
-Under review of *the 43rd International Conference on Research and Development in Information Retrieval (**SIGIR 2020**)*
+Under review of *The 29th ACM International Conference on Information and Knowledge Management (**CIKM 2020**)*
 
 **DICE: A Dataset for Identifying Commonsense Errors in E-Commerce Knowledge Graph**.<br />
-Under review of *the 19th International Semantic Web Conference (**ISWC 2020**)*
+Under review of *The 19th International Semantic Web Conference (**ISWC 2020**)*
 
 
