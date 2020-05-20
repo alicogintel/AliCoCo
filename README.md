@@ -29,7 +29,7 @@ Under review of *The 29th ACM International Conference on Information and Knowle
 **Semantics-Enhanced Slogan Generation in E-commerce**.<br />
 Under review of *The 29th ACM International Conference on Information and Knowledge Management (**CIKM 2020**)*
 
-**DICE: A Dataset for Identifying Commonsense Errors in E-Commerce Knowledge Graph**.<br />
+**[DICE: A Dataset for Identifying Commonsense Errors in E-Commerce Knowledge Graph](https://github.com/alicogintel/DICE)**.<br />
 Under review of *The 19th International Semantic Web Conference (**ISWC 2020**)*
 
 
