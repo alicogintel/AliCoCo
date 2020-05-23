@@ -17,7 +17,7 @@ The following works are based on AliCoCo:
 Xusheng Luo, Yonghua Yang, Kenny Q. Zhu, Yu Gong, and Keping Yang.<br />
 In *Proceedings of The 28th ACM International Conference on Information and Knowledge Management (**CIKM 2019**)*
 
-**M2GRL: A Multi-task Multi-view Graph Representation Learning Framework for Web-scale Recommender Systems**.<br />
+**[M2GRL: A Multi-task Multi-view Graph Representation Learning Framework for Web-scale Recommender Systems](https://arxiv.org/abs/2005.10110)**.<br />
 To appear at *The 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (**KDD 2020**)*
 
 **ATBRG: Adaptive Target-Behavior Relational Graph Network for Effective Recommendation**.<br />
