@@ -20,7 +20,7 @@ In *Proceedings of The 28th ACM International Conference on Information and Know
 **[M2GRL: A Multi-task Multi-view Graph Representation Learning Framework for Web-scale Recommender Systems](https://arxiv.org/abs/2005.10110)**.<br />
 To appear at *The 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (**KDD 2020**)*
 
-**ATBRG: Adaptive Target-Behavior Relational Graph Network for Effective Recommendation**.<br />
+**[ATBRG: Adaptive Target-Behavior Relational Graph Network for Effective Recommendation](https://arxiv.org/abs/2005.12002)**.<br />
 To appear at *The 43rd ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2020**)*
 
 **MTBRN: Multiplex Target-Behavior Relation Enhanced Network for Click-Through Rate Prediction**.<br />
