@@ -4,9 +4,9 @@ This repo **will** contain anything we plan to make public of the large-scale co
 
 For details about AliCoCo 1.0, check our latest SIGMOD paper:
 
-**[AliCoCo: Alibaba E-commerce Cognitive Concept Net](https://arxiv.org/abs/2003.13230)**.<br /> 
+**[AliCoCo: Alibaba E-commerce Cognitive Concept Net](https://dl.acm.org/doi/pdf/10.1145/3318464.3386132)**.<br /> 
 Xusheng Luo, Luxin Liu, Yonghua Yang, Le Bo, Yuanpeng Cao, Jinhang Wu, Qiang Li, Keping Yang and Kenny Q. Zhu.<br /> 
-To appear *in Proceedings of The 2020 International Conference on Management of Data (**SIGMOD 2020**)*
+In *Proceedings of The 2020 International Conference on Management of Data (**SIGMOD 2020**)*
 
 <br />
 <br />
@@ -29,6 +29,9 @@ To appear at *The 43rd ACM SIGIR Conference on Research and Development in Infor
 Under review of *The 29th ACM International Conference on Information and Knowledge Management (**CIKM 2020**)*
 
 **Semantics-Enhanced Slogan Generation in E-commerce**.<br />
+Under review of *The 29th ACM International Conference on Information and Knowledge Management (**CIKM 2020**)*
+
+**[IQuS: A Dataset for Informal Query Understanding in E-Commerce with Machine Reading Comprehension](https://github.com/alicogintel/IQuS)**.<br />
 Under review of *The 29th ACM International Conference on Information and Knowledge Management (**CIKM 2020**)*
 
 **[DICE: A Dataset for Identifying Commonsense Errors in E-Commerce Knowledge Graph](https://github.com/alicogintel/DICE)**.<br />
