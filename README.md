@@ -26,15 +26,12 @@ Yufei Feng, Binbin Hu, Fuyu Lv, Qingwen Liu, Zhiqiang Zhang and Wenwu Ou.<br />
 To appear at *The 43rd ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2020**)*
 
 **MTBRN: Multiplex Target-Behavior Relation Enhanced Network for Click-Through Rate Prediction**.<br />
-Under review of *The 29th ACM International Conference on Information and Knowledge Management (**CIKM 2020**)*
+To appear at *The 29th ACM International Conference on Information and Knowledge Management (**CIKM 2020**)*
 
 **Semantics-Enhanced Slogan Generation in E-commerce**.<br />
-Under review of *The 29th ACM International Conference on Information and Knowledge Management (**CIKM 2020**)*
 
 **[IQuS: A Dataset for Informal Query Understanding in E-Commerce with Machine Reading Comprehension](https://github.com/alicogintel/IQuS)**.<br />
-Under review of *The 29th ACM International Conference on Information and Knowledge Management (**CIKM 2020**)*
 
-**[DICE: A Dataset for Identifying Commonsense Errors in E-Commerce Knowledge Graph](https://github.com/alicogintel/DICE)**.<br />
-Under review of *The 19th International Semantic Web Conference (**ISWC 2020**)*
+
 
 
