@@ -19,14 +19,14 @@ In *Proceedings of The 28th ACM International Conference on Information and Know
 
 **[M2GRL: A Multi-task Multi-view Graph Representation Learning Framework for Web-scale Recommender Systems](https://arxiv.org/abs/2005.10110)**.<br />
 Menghan Wang, Yujie Lin, Guli Lin, Keping Yang and Xiao-ming Wu.<br />
-To appear at *The 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (**KDD 2020**)*
+In *Proceedings of The 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (**KDD 2020**)*
 
 **[ATBRG: Adaptive Target-Behavior Relational Graph Network for Effective Recommendation](https://arxiv.org/abs/2005.12002)**.<br />
 Yufei Feng, Binbin Hu, Fuyu Lv, Qingwen Liu, Zhiqiang Zhang and Wenwu Ou.<br />
-To appear at *The 43rd ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2020**)*
+In *Proceedings of The 43rd ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2020**)*
 
 **MTBRN: Multiplex Target-Behavior Relation Enhanced Network for Click-Through Rate Prediction**.<br />
-To appear at *The 29th ACM International Conference on Information and Knowledge Management (**CIKM 2020**)*
+In *Proceedings of The 29th ACM International Conference on Information and Knowledge Management (**CIKM 2020**)*
 
 **Semantics-Enhanced Slogan Generation in E-commerce**.<br />
 
