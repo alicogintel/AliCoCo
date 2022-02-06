@@ -8,6 +8,9 @@ For details about AliCoCo 1.0, check our latest SIGMOD paper:
 Xusheng Luo, Luxin Liu, Yonghua Yang, Le Bo, Yuanpeng Cao, Jinhang Wu, Qiang Li, Keping Yang and Kenny Q. Zhu.<br /> 
 In *Proceedings of The 2020 International Conference on Management of Data (**SIGMOD 2020**)*
 
+**[AliCoCo2: Commonsense Knowledge Extraction, Representation and Application in E-commerce](https://dl.acm.org/doi/abs/10.1145/3447548.3467203)**.<br />
+In *Proceedings of The 2021 ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (**SIGKDD 2021**)*
+
 <br />
 <br />
 
@@ -19,7 +22,7 @@ In *Proceedings of The 28th ACM International Conference on Information and Know
 
 **[M2GRL: A Multi-task Multi-view Graph Representation Learning Framework for Web-scale Recommender Systems](https://arxiv.org/abs/2005.10110)**.<br />
 Menghan Wang, Yujie Lin, Guli Lin, Keping Yang and Xiao-ming Wu.<br />
-In *Proceedings of The 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (**KDD 2020**)*
+In *Proceedings of The 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (**SIGKDD 2020**)*
 
 **[ATBRG: Adaptive Target-Behavior Relational Graph Network for Effective Recommendation](https://arxiv.org/abs/2005.12002)**.<br />
 Yufei Feng, Binbin Hu, Fuyu Lv, Qingwen Liu, Zhiqiang Zhang and Wenwu Ou.<br />
@@ -31,7 +34,3 @@ In *Proceedings of The 29th ACM International Conference on Information and Know
 **Semantics-Enhanced Slogan Generation in E-commerce**.<br />
 
 **[IQuS: A Dataset for Informal Query Understanding in E-Commerce with Machine Reading Comprehension](https://github.com/alicogintel/IQuS)**.<br />
-
-
-
-
